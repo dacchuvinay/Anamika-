@@ -1,0 +1,7 @@
+{
+  "name": "FitBot AI",
+  "description": "A comprehensive fitness app featuring full-body workouts, a calorie tracker, motivational quotes, and an AI assistant powered by Gemini for personalized guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
